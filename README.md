@@ -87,7 +87,7 @@ A HTML file containing the results will be placed in the same directory. The res
 ## References
 Brand, D., & Ragni, M. (In Press). Effect of Response Format on Syllogistic Reasoning. In Proceedings of the 45rd Annual Meeting of the Cognitive Science Society.
 
-Khemlani, S. S., & Johnson-Laird, P. N. (2012). Theories of the syllogism: A meta-analysis. Psychological Bulletin, 138(3), 427–457. [OSF](https://osf.io/rwyk5/
+Khemlani, S. S., & Johnson-Laird, P. N. (2012). Theories of the syllogism: A meta-analysis. Psychological Bulletin, 138(3), 427–457. [OSF](https://osf.io/rwyk5/ )
 
-Riesterer, N., Brand, D., & Ragni, M. (2020). Do Models Capture Individuals? Evaluating Parameterized Models for Syllogistic Reasoning. In Proceedings of the 42nd Annual Conference of the Cognitive Science Society. [GitHub](https://github.com/nriesterer/cogsci-individualization
+Riesterer, N., Brand, D., & Ragni, M. (2020). Do Models Capture Individuals? Evaluating Parameterized Models for Syllogistic Reasoning. In Proceedings of the 42nd Annual Conference of the Cognitive Science Society. [GitHub](https://github.com/nriesterer/cogsci-individualization )
 
