@@ -1,0 +1,17 @@
+{
+    "type": "coverage",
+    "data.test": "../../data/multiple_choice.csv",
+    "models": [
+		"phm/phm_ccobra_jacc.py",
+		"mfa/mfaModel.py",
+		{"filename": "models/csvModel.py", "override_name" : "Atmosphere", "args" : {"response_csv" : "Atmosphere.csv"}},
+		{"filename": "models/csvModel.py", "override_name" : "Conversion", "args" : {"response_csv" : "Conversion.csv"}},
+		{"filename": "models/csvModel.py", "override_name" : "Matching", "args" : {"response_csv" : "Matching.csv"}},
+		{"filename": "models/csvModel.py", "override_name" : "MMT", "args" : {"response_csv" : "MMT.csv"}},
+		{"filename": "models/csvModel.py", "override_name" : "PHM", "args" : {"response_csv" : "PHM.csv"}},
+		{"filename": "models/csvModel.py", "override_name" : "PSYCOP", "args" : {"response_csv" : "PSYCOP.csv"}},
+		{"filename": "models/csvModel.py", "override_name" : "VerbalModels", "args" : {"response_csv" : "VerbalModels.csv"}},
+        "mreasoner/mreasoner_jacc.py"
+    ],
+	"comparator" : "jaccard.py"
+}
