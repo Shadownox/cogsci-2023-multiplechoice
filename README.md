@@ -52,6 +52,8 @@ Companion repository for the 2023 article "Effect of Response Format on Syllogis
 - `model_eval/models/VerbalModels.csv`: The prediction table for the Verbal Models.
 - `model_eval/model_eval_agg.py`: Script performing the aggregated analysis based on the model prediction tables calculating accuracy, hits, rejections, jaccard coefficient, as well as the correlation between rejection and the number of responses.
 - `model_eval/sample.py`: Script calculating the values for the theoretical comparison of accuracy and jaccard coefficient.
+- `poster`: Contains the conference poster.
+- `poster/cogsci_poster_2023.pdf`: The conference poster.
 
 ## Dependencies
 
